@@ -1,0 +1,15 @@
+#cursos{
+    font-weight: bold;
+}
+.rodape{
+    background-color: aqua;
+    border: 1px solid black;
+}
+
+article > p{
+    margin-left: 20px;
+    margin-right: 20px;
+}
+div{
+    border: red;
+}
